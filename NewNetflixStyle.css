@@ -1,0 +1,308 @@
+body{
+    background-color: gray;
+}
+*{
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    background-size: cover;
+    margin: 0px;
+   
+}
+.container{
+    background-image:url('NetBack.png');
+    background-size:cover;
+    width:100.5%;
+    height:100%;
+    position:relative;
+    top:-15px;
+    left:-10px;  
+    background-size: cover;
+
+    overflow-x: hidden;
+
+}
+.logo,img{
+    width:170px;
+    height:45px;
+    margin-left: 20px;
+    margin-top: 15px;    
+}
+.lang1{
+    width:145px;
+    margin-top: -25px;
+    margin-left: 1300px
+
+}
+select:checked{
+    background-color: gray;
+}
+.lan1{
+    margin:2px;
+    color:white;
+    background-color:transparent;
+    padding:7px;
+    font-size: 16px;
+    border-radius:2px;
+}
+.signin {
+    padding:6px;
+    width: 90px;
+    margin-top: -37px;
+    margin-left: 100px;
+    background-color: red;
+    color:white;
+    font-size: 15px;
+    border-radius: 3px;
+}
+.headings {
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 150px;
+}
+.em{
+    font-size: 15px;
+    width:600px;
+    height: 70px;
+    padding:20px;
+    margin-left: 330px;
+    border-radius: 3px;
+}
+.sub{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    height:70px;
+    width:300px;
+    margin-left:-7px;
+    border-radius: 3px;
+}
+.subh{
+    font-size:35px;
+}
+.subh1{
+    font-size:25px;
+}
+select {
+    font-family: 'FontAwesome', 'Second Font name'
+  }
+.eng{
+    size:60px;
+}
+.container1{    
+    background-size:cover;
+    position:relative;
+    top:-7px;
+    color:white;
+    margin:0px;
+    max-width:100%;
+    height:70%;
+    background-color: black;
+    display: block;
+    
+}
+.div4 {
+    text-align: justify;
+    padding:1px;
+    width: 470px;
+    margin-left: 190px;
+    font-size: 25px;
+    position: relative;
+    top:110px;
+}
+.para1 {
+    position: relative;
+    top:30px;
+}
+.story{
+    height:300px;
+    width:450px;
+    position:relative;
+    left:850px;
+    top:-120px;
+}
+.tv-video{
+    width:78%;
+    position: relative;
+    left:30px;
+    top:10px;
+}
+.our-story-card-img{
+    width:450px;
+    height:280px;
+    position:relative;
+    left:-20px;
+    top:-218px;
+}
+.container2{   
+    
+    background-size: cover;
+    position:relative;
+    top:3px;
+    color:white;
+    max-width:100%;
+    height:500px;
+    background-color: black;
+    display: block;
+}
+.div5 {   
+    text-align: justify;
+    padding:0px;
+    width: 550px;
+    margin-left: 800px;
+    font-size: 22px;
+    position: relative;
+    top:110px;
+}
+.para2 {
+    position:relative;
+    top: 23px;
+}
+.animation{
+    width:300px;
+    height:400px;
+    position:relative;
+    top:-120px;
+    left:220px;
+}
+.mobile{
+    width:440px;
+    height:350px;
+    position: relative;
+    top:-40px;
+    left:-68px;
+}
+.our-animation{
+    background-color: black;
+    border:1px solid gray;
+    border-radius:10px;
+    width:340px;
+    height:90px;
+    position: relative;
+    top:-315px;
+    left:220px;
+    
+}
+.boxshot{
+    width:50px;
+    height:60px;
+}
+.text-0{
+    position:relative;
+    top:-60px;
+    left:90px;
+}
+.text-1{
+    position:relative;
+    left:90px;
+    top:-55px;
+    color:blue;
+}
+.download-icon{
+    width:60px;
+    height:65px;
+    position:relative;
+    top:-110px;
+    left:270px;
+}
+.down-icon{
+    width:60px;
+    height:60px;
+    position:relative;
+    top:-11px;
+    left:-20px;
+}
+.container3 {
+    max-width:100%;
+    height:500px;
+    background-color: black;
+    margin-top:-160px;
+}
+.div6 {   
+    text-align: justify;
+    padding:0px;
+    width: 500px;
+    margin-left: 190px;
+    font-size: 22px;
+    position: relative;
+    top:110px;
+    color:white;
+}
+.para3{
+    position:relative;
+    top:23px;
+} 
+.cartoon {
+    position:relative;
+    left:950px;
+    width:450px;
+    height:350px;
+    top:-135px;
+}
+.imgcartoon {
+    position:relative;
+    left:-20px;
+    width:450px;
+    height:350px;
+    top:-15px;
+}
+.container4 {
+    max-width:100%;
+    height:550px;
+    background-color: black;
+    position:relative;
+    top:10px;
+}
+.query{
+   
+    width:1050px;
+    height:500px;
+    position:relative;
+    left:200px;
+    top:30px;
+}
+.question{
+    color:rgb(155, 150, 150);
+    position: relative;
+    left: 50px;
+    top: 70px;
+
+}
+.list{
+    width: 950px;
+    height:350px;
+    position:relative;
+    top: -360px;
+    left: 250px;
+}
+.tab{
+    width:800px;
+    height:150px;
+    color:grey;
+    border-collapse: collapse;
+    margin:1px;
+}
+td:hover{
+    background-color: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.lang2{
+    font-size:20px;
+    position:relative;
+    top:20px;
+   
+}
+.para6{
+    color:gray;
+    position: relative;
+    top:50px;
+}
+option{
+    background-color: gray;
+}
+.lan{
+    padding:13px 15px 13px 15px;
+    font-size:15px;
+    color: white;
+    background-color: black;
+}
